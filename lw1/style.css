@@ -1,0 +1,136 @@
+* {
+    list-style: none;
+    text-decoration: none;
+    font-family: "Oxygen";
+    color: #2E2E2E;
+}
+
+body {
+    margin: 0;
+}
+
+.line{
+    text-align: right;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    text-transform: uppercase;
+}
+.escape{
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    margin-top: 3px;
+    margin-bottom: 11px;
+    font-family: "Lora";
+}
+.button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 38px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 28px;
+    margin-top: 17px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.image{
+    width: 100%;
+    height: 534px;
+    margin: 0 0;
+}
+.heading{
+    margin-left: 221px;
+    margin-right: 221px;
+    padding-bottom: 20px;
+    font-family: "Lora";
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 51px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.subtitle{
+    margin-left: 218px;
+    margin-right: 218px;
+    margin-bottom: 75px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.maintxt{
+    max-width: 960px;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 140px;
+    margin-bottom: 135px;
+
+}
+.article {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #2E2E2E;
+}
+.lineend{
+    text-align: right;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 20px;
+    display: flex;
+    text-transform: uppercase;
+}
+.escapeend{
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px;
+    margin-top: 3px;
+    margin-bottom: 11px;
+    font-family: "Lora";
+    color: #FFFFFF;
+}
+.buttonend{
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+.menuend{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 28px;
+    background-image: url(../lw1/Frame.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    height: 89px;
+}
+
+.last_paragraph {
+    margin-bottom: 135px;
+}
+.first_paragraph{
+    margin-top: 140px;
+}
